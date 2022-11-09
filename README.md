@@ -13,10 +13,13 @@ A PDF quickstart guide with instructions on how to use the jupyter notebook is i
 
 Required packages for the anaconda distribution can be installed by navigating to the exctracted/cloned directory and using ONE of the two following commands:
 If using conda distribution of python, open the 'anaconda prompt' and type in the following line, then hit enter:
+
 conda install --yes --file requirements.txt
+
 NOTE: Conda users may should not need to install requirements, as all requirements come with the anaconda distribtuion.
 
 If using your own distribution of python
+
 pip3 install -r requirements.txt
 
 Please use the conda installer if you have downloaded the anaconda distribution of python. 
