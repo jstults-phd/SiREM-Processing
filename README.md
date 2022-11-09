@@ -1,5 +1,8 @@
 # SiREM-Processing
-A short jupyter notebook for processing SiREM data to poly ethylene films.
+A short jupyter notebook for processing SiREM passive sampler data. SiREM passive samplers work by adsorbing organic contaminants to polyetylene films. 
+The concentration measured on the film must be convered to the environmental concentration using PCB calibration standards embedded in the sampler.
+This process is highly labor intesive and error prone.
+This simple jupyter notebook is intended to automate the process and make data processing faster in the future.
 
 Python 3 is required for this program. Python can be installed using the anaconda distribution or using an independent installation. The anaconda distribution of Python is recommended unless the user has a specific reason for avoiding the anaconda distrubtion.
 https://docs.anaconda.com/anaconda/install/index.html
